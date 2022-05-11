@@ -1,3 +1,7 @@
+install.packages("readr")
+install.packages("tidyr")
+install.packages("stringr")
+install.packages("dplyr")
 
 library(readr)
 library(tidyr)
